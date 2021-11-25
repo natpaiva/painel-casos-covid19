@@ -11,8 +11,8 @@ Compartilhamos esse material com o objetivo de apoiar o desenvolvimento das aç�
 No Projeto de Extensão temos nos dedicado na elaboração de rotinas de análise dos dados e produção de informação de retorno sobre casos notificados de SG e de SRAG 
 utilizando o R, RStudio e Rmarkdown, ferramentas de de domínio público.
 
-Compartilho a planilha de dados fictícios, o script em *.Rmd e o resultado do Painel em html.
+Compartilho a planilha de dados fictícios e o script em *.Rmd
 
-Para visualizar o arquivo em html, sugiro fazer download do mesmo em um computador. Cada Região administrativa (RA) da AP3.1, tem uma aba para divulgação das suas informações.
+Para compartilhar/visualizar o arquivo em html, sugiro fazer download do mesmo em um computador. Cada Região administrativa (RA) da AP3.1, tem uma aba para divulgação das suas informações.
 
 Conheça nossos Projetos de Extensão em http://www.iesc.ufrj.br/extensao
