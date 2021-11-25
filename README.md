@@ -13,6 +13,6 @@ utilizando o R, RStudio e Rmarkdown, ferramentas de de domínio público.
 
 Compartilho a planilha de dados fictícios, o script em *.Rmd e o resultado do Painel em html.
 
-Para visualizar o arquivo em html, sugiro fazer download do mesmo. Cada Região administrativa (RA) da AP3.1, tem uma aba para divulgação das suas informações.
+Para visualizar o arquivo em html, sugiro fazer download do mesmo em um computador. Cada Região administrativa (RA) da AP3.1, tem uma aba para divulgação das suas informações.
 
 Conheça nossos Projetos de Extensão em http://www.iesc.ufrj.br/extensao
